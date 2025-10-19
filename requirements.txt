@@ -1,0 +1,47 @@
+# Dépendances pour le projet de gestion de portefeuille avec DRL et copules
+
+# 1. Créez un environnement virtuel Python
+# python3 -m venv venv
+
+# 2. Activez l'environnement
+# source venv/bin/activate
+
+# 3. Installez l'arsenal de dépendances. Cette commande lira requirements.txt et installera tout.
+# pip install -r requirements.txt
+
+
+# =============================================================================
+
+# Framework d'apprentissage par renforcement
+torch>=2.0.0
+gymnasium>=0.29.0
+
+# Gestion et analyse des données
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Modélisation des copules et analyse statistique
+pyvinecopulib==0.7.5
+arch>=6.2.0
+statsmodels>=0.14.0
+
+# Optimisation de portefeuille (Benchmark Markowitz)
+PyPortfolioOpt>=1.5.0  # <-- LIGNE AJOUTÉE
+
+# Indicateurs techniques
+ta>=0.10.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Interface utilisateur
+streamlit>=1.28.0
+
+# Utilitaires
+tqdm>=4.65.0
+scikit-learn>=1.3.0
+
+# Traitement des données Excel
+openpyxl>=3.1.0
