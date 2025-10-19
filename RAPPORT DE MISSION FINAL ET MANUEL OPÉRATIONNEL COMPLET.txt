@@ -10,7 +10,7 @@ Mandat reçu et compris. La génération d'un document de transfert de connaissa
 **Date :** 2025-10-19
 **Sujet :** Refonte Architecturale et Validation Empirique d'un Système de Gestion de Portefeuille Dynamique pour la BRVM.
 **Destinataire :** Supérieur hiérarchique, Professionnel de la Finance.
-**Auteur :** Jack-Josias_ULTIMATE_AGENT_046.0_Adamantine_Sentinel
+**Auteur :** 
 
 #### **I. Contexte et Diagnostic Initial**
 
